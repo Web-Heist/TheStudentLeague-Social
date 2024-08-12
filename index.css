@@ -17,7 +17,7 @@ html body{
 
 .content h3{font-size:1.9rem; margin-top:20rem; margin-left:7%; position:absolute;
      font-size:2.5rem; font-family:fantasy; opacity:0; visibility: hidden;
-     color:rgb(255, 0, 0);  font-weight:bold; animation-direction:normal; word-spacing:0.5rem; opacity:1;}
+     color:rgb(255, 0, 0);  font-weight:bolder; animation-direction:normal; word-spacing:0.5rem; opacity:1;}
 
      .t1{animation: t 4s 0s forwards ; animation-timing-function:linear;}
      .t2{animation: t 0.5s 4s forwards ; animation-timing-function:linear;}
@@ -96,12 +96,12 @@ background-image: linear-gradient(to right, rgb(60, 55, 68), rgba(160, 151, 152,
 
  @media  only screen and (width <= 800px) { html{font-size:50%;} 
  .logo{margin-top:-9rem; margin-left:3%;} 
- .botpic{width:13.2rem; height:12rem; margin-top:40rem; margin-left:2%;}
- .gearpic{width:12rem; height:10.5rem; margin-top:81rem; margin-left:71%;}
+ .botpic{width:14rem; height:12rem; margin-top:41rem; margin-left:2%;}
+ .gearpic{width:12rem; height:9.5rem; margin-top:81rem; margin-left:71%;}
  .c1{width:17rem; height:15rem; margin-top:25rem; margin-left:32%;} 
  .c2{width:17rem; height:15rem; margin-top:38rem; margin-left:60%;} 
  .c3{width:17rem; height:15rem;  margin-top:55rem; margin-left:2%;} 
  .c4{width:17rem; height:15rem;  margin-top:68rem; margin-left:30%;}
- html body{ width:100%; overflow-x:hidden;} .content h3{font-family:'Black Ops One';  font-size:3rem; word-spacing:0.1rem; margin-top:17rem;}
+ html body{ width:100%; overflow-x:hidden;} .content h3{font-family:'Black Ops One',Impact,Fantasy;  font-size:3rem; word-spacing:0.1rem; margin-top:17rem;}
  .firstpagebg{width:100%; overflow-x:hidden;}
 }
