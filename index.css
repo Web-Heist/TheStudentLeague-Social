@@ -6,18 +6,18 @@ html body{
 }
 
 .firstpagebg{
-    background-image:url(connection-753480_1280.jpg);
+    background-image:url(people-3175023_1280.jpg);
     background-repeat:no-repeat; background-size:cover;
     background-position:center; width:100%; height:100rem;}
 
 .firstpagebg ul{ margin-left:57%; margin-top:2rem; 
     font-size:1.1rem; position:sticky; top:0; z-index:30;}
-.nav-link{color:rgb(255, 0, 0); font-weight:bolder;}
+.nav-link{color:rgb(255, 0, 0);}
 
 
-.content h3{font-size:1.9rem; margin-top:20rem; margin-left:7%; position:absolute;
+.content h3{font-size:1.9rem; margin-top:15rem; margin-left:7%; position:absolute;
      font-size:2.5rem; font-family:'Black Ops One',Impact,Fantasy; opacity:0; visibility: hidden;
-     color:rgb(255, 0, 0);  font-weight:bolder; animation-direction:normal; word-spacing:0.5rem; opacity:1;}
+     color:rgb(255, 0, 0); font-weight:bold; animation-direction:normal; word-spacing:0.5rem; opacity:1;}
 
      .t1{animation: t 4s 0s forwards ; animation-timing-function:linear;}
      .t2{animation: t 0.5s 4s forwards ; animation-timing-function:linear;}
