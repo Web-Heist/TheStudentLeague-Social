@@ -38,7 +38,7 @@ html body{
 .logo{ width:30rem; position:absolute; 
     margin-top:-6rem; margin-left:28%}
 
-.botpic{width:24rem; height:18rem; position:absolute; margin-left:5rem; margin-top:28rem;}
+.botpic{width:32rem; height:32.5rem; position:absolute; margin-left:5rem; margin-top:24rem;}
 .gearpic{width:20rem; height:18rem; z-index:10; position:absolute; margin-left:70rem; margin-top:78rem;}
 
 .c1{ position: absolute;
@@ -79,7 +79,7 @@ background-image: linear-gradient(to right, rgb(60, 55, 68), rgba(160, 151, 152,
 
 .card-title{ color:white; font-family:Georgia;
     font-size:1.4rem; background-color:rgba(43, 40, 40, 0.377);}
-.card-text{ color:rgb(233, 230, 230); margin-top:2rem;}
+.card-text{ color:rgb(233, 230, 230); margin-top:2rem; font-size:1.2rem;}
 
 
 @keyframes t{
@@ -111,8 +111,8 @@ background-image: linear-gradient(to right, rgb(60, 55, 68), rgba(160, 151, 152,
 
 
  @media  only screen and (width <= 700px) { html{font-size:50%;} 
- .logo{margin-top:-9rem; margin-left:3%;} 
- .botpic{width:14rem; height:12rem; margin-top:41rem; margin-left:2%;}
+ .logo{margin-top:-9rem; margin-left:3%;}  .card-text{font-size:0.8rem; margin-top:1rem;}
+ .botpic{width:18rem; height:20rem; margin-top:35.5rem; margin-left:2%;}
  .gearpic{width:12rem; height:9.5rem; margin-top:81rem; margin-left:71%;}
  .c1{width:17rem; height:15rem; margin-top:25rem; margin-left:32%;} 
  .c2{width:17rem; height:15rem; margin-top:38rem; margin-left:60%;} 
